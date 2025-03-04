@@ -27,17 +27,5 @@ The project is implemented in Python and includes the following modules:
 2. **Run the Program:** Execute the main script and input your source and destination when prompted.
 3. **Receive Optimal Route:** The program will output the most efficient path based on the provided data.
 
-## Requirements
-
-- Python 3.x
-- Ensure all necessary Python libraries are installed.
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request with your enhancements.
-
-## License
-
-This project is licensed under the MIT License.
 
 
